@@ -62,9 +62,12 @@
 </a>
 
 ---
-
 ### 📊 GitHub Stats
 
-![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=averma164&show_icons=true&theme=tokyonight&rank_icon=github)
+![Aditi's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=averma164&theme=tokyonight)
 
-![Aditi's LeetCode Stats](https://leetcode-stats-github.herokuapp.com/?username=aditiverma_164&theme=dark)
+<br />
+
+![Aditi's LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/aditiverma_164?theme=dark)
+
+
