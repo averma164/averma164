@@ -12,15 +12,14 @@
 
 ### 👋 Hey there! I’m Aditi Verma
 
-* 🌱 Currently diving into **DSA** & mastering **Full-Stack Development**
-* 👀 Passionate about **Backend Architecture** and **scalable applications**
-* 💞️ Open to collaborating on full-stack web and mobile apps
-* 📫 Reach me at: 
+*  Currently diving into **DSA** & mastering **Full-Stack Development**
+*  Passionate about **Backend Architecture** and **scalable applications**
+*  Reach me at:<br>
   <a href="mailto:av0540428@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-DF4A32?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
-😄 Pronouns: **She/Her** ⚡ Fun fact: I write clean, efficient solutions with a sharp eye on time and space complexity! 
+😄 Pronouns: **She/Her** ⚡ Fun fact: Internet users blink less than usual 
 
 ---
 
