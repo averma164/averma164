@@ -63,7 +63,7 @@
 ---
 ### 📊 GitHub Stats
 
-![Aditi's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=averma164&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=averma164&theme=tokyonight)](https://git.io/streak-stats)
 
 <br />
 
